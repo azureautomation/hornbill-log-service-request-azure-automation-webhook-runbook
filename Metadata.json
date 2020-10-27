@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 6073,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-log-service-request-azure-automation-webhook-runbook/master/Hornbill_RequestLogServiceRequest_Webhook.ps1",
+    "DownloadCount": 704,
+    "Id": "Hornbill-Log-Service-ef191beb",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 518,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Azure Powershell Runbook to log a new Service Request within Service Manager on a Hornbill Instance.  For use with Automation Webhooks.",
+    "Title": "Hornbill Log Service Request - Azure Automation Webhook Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-log-service-request-azure-automation-webhook-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
